@@ -1,0 +1,6 @@
+{
+  "name": "PesanKuliner - Toko Online & Delivery Cafe UMKM",
+  "description": "Platform toko online dan sistem delivery mandiri untuk Cafe, Restoran, dan UMKM Makanan di Indonesia dengan 0% komisi, QRIS, dan pesanan via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
